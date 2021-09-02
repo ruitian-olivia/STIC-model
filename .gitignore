@@ -1,0 +1,13 @@
+.vscode/
+__pycache__/
+PNG/
+Registration/
+RGB/
+airlab/
+/test_cases/
+/data/
+/model/*
+!/model/HIM_stic_model.h5
+*.csv
+*.log
+anonymization.py
