@@ -7,7 +7,9 @@ Source code for SpatialExtractor-TemporalEncoder-Integration-Classifier (STIC) m
     <em> The schematics of the proposed STIC model</em>
 </p>
 
+More details of this model are shown in our paper:
 
+Gao, R., Zhao, S., Aishanjiang, K. et al. Deep learning for differential diagnosis of malignant hepatic tumors based on multi-phase contrast-enhanced CT and clinical data. J Hematol Oncol 14, 154 (2021). https://doi.org/10.1186/s13045-021-01167-2
 
 ### System requirement
 
